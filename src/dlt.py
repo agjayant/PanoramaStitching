@@ -162,8 +162,6 @@ def dlt(image, p1, p2 ):
     # newimage = cv2.imread('../images/res.png')
     # cv2.imshow("Transformed", newimage)
 
-    # In[ ]:
-
     kernel = np.ones((3,3),np.uint8)
     closing = cv2.morphologyEx(newimage, cv2.MORPH_CLOSE, kernel)
 
