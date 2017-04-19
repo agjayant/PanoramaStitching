@@ -26,3 +26,6 @@ Left | Right | Result |
 ![](images/grand_canyon_left.png) | ![](images/grand_canyon_right.png) | ![](images/grand_canyon.png)
 ![](images/old_left.jpg) | ![](images/old_right.jpg) | ![](images/old.png)
 ![](images/scottsdale_left.png) | ![](images/scottsdale_right.png) | ![](images/scottsdale.png)
+
+* Images and Code for _matchPoints_ taken from :[PyImageSearch Panaroma Stitching](http://www.pyimagesearch.com/2016/01/11/opencv-panorama-stitching/)
+by _Adrian Rosebrock_
