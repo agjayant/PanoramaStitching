@@ -2,6 +2,20 @@
 
 Panorama Stitching(python) - Assignment4: CS698U: Topics in Computer Vision
 
+## Running
+
+### DLT
+```
+python src/runDLT.py
+```
+Change image path and point correspondences(_p1_ and _p2_) in _src/runDLT.py_ accordingly.
+
+### Panorama
+```
+python src/pano.py -l path/to/left_image -r path/to/right_image
+```
+The result image is at location _images/result.png_ .
+
 ## Direct Linear Transform
 
 Using Four Point Correspondences between original and transformed images
